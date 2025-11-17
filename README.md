@@ -22,3 +22,4 @@ https://github.com/costnerdev/solum-medical-frontend-test
 1. Navigate to project directory named *frontend* ```cd C/frontend```
 2. Run the program ```npm run dev```
 3. Play around with the simple login form  ```http://localhost:3000/sign-in``` and dashboard ```http://localhost:3000/```
+4. List of users login details can be seen in ```C/frontend/data/users.json``` to test

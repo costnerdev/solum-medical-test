@@ -16,6 +16,9 @@ Download this repository and run commands as described below
 
 ## Directory C
 
+**Notes** Directory C is a submodule that is in another repository below
+https://github.com/costnerdev/solum-medical-frontend-test
+
 1. Navigate to project directory named *frontend* ```cd C/frontend```
 2. Run the program ```npm run dev```
 3. Play around with the simple login form  ```http://localhost:3000/sign-in``` and dashboard ```http://localhost:3000/```
